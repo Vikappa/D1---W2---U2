@@ -1,0 +1,14 @@
+* {
+    transition: 1s;
+}
+
+.container {
+    padding: 1em 0;
+}
+
+.row div {
+    border-radius: 10px;
+}
+
+/* Mi sono permesso di personalizzare leggermente l'aspetto della pagina di esercizi con una transione per vedere
+ gli effetti del codice che scrivevo e per distinguere i div delle colonne dai div degli esercizi*/
