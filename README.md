@@ -1,2 +1,2 @@
-<img src="https://w7.pngwing.com/pngs/628/224/png-transparent-bootstrap-plain-wordmark-logo-icon.png](https://e7.pngegg.com/pngimages/391/430/png-clipart-bootstrap-full-logo-tech-companies.png" style="heigth: 2em;">
+<img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" style="heigth: 2em; border-radius:25px;">
 Esercizio sul Grid Layout di BootStrap fatto durante il corso fullstack di Epicode
